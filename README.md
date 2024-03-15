@@ -3,7 +3,7 @@
 Welcome to the official repository for the Travelopia website! This project is a demonstration of a sophisticated, responsive website designed for Travelopia, a premier experiential travel brand. Crafted with HTML, CSS, and a sprinkle of JavaScript, the site delivers an engaging and immersive user experience, embodying the essence of Travelopia's commitment to exceptional travel adventures.
 
 ### Deployed Link:
-
+https://travelopia-wheat.vercel.app/
 
 ## Features
 ### NavBar:
