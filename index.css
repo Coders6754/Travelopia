@@ -4,3 +4,10 @@
   display: flex;
   justify-content: center;
 }
+
+.header {
+  align-items: center;
+  background-color: #fdefd3;
+  display: flex;
+  justify-content: space-evenly;
+}
